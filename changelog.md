@@ -1,5 +1,9 @@
-# MoreGames Changelog
+# Dash+ / MoreGames Changelog
 
+## v2.0.0 (2026-06-25)
+- Geometry Dash Update 2.2081!
+- Geoade Update 5.7.1!
+  
 ## v1.0.5 (2024-10-24)
 - Geometry Dash Update 2.206!
 - All levels updated with the SpinOffs updates
