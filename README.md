@@ -9,9 +9,9 @@ Have you ever thought that the "More Games" button was completely useless? WELL 
 
 This mod brings all 3 fully playable Geometry Dash spinoffs into one mod!
 
-- <img width="270" height="270" alt="270px-GeometryDashSubZero" src="https://github.com/user-attachments/assets/a49957cf-ea4f-49ac-817f-d8b54e1acf94" />
-- <img width="270" height="270" alt="270px-GeometryDashWorld" src="https://github.com/user-attachments/assets/cca7cc5b-3988-47b9-b145-8d23457c6f15" />
-- <img width="270" height="270" alt="270px-GeometryDashMeltdown" src="https://github.com/user-attachments/assets/032c2d4e-d94a-481b-8376-9150b2ae7b9d" />
+<img width="270" height="270" alt="270px-GeometryDashSubZero" src="https://github.com/user-attachments/assets/a49957cf-ea4f-49ac-817f-d8b54e1acf94" />
+<img width="270" height="270" alt="270px-GeometryDashWorld" src="https://github.com/user-attachments/assets/cca7cc5b-3988-47b9-b145-8d23457c6f15" />
+<img width="270" height="270" alt="270px-GeometryDashMeltdown" src="https://github.com/user-attachments/assets/032c2d4e-d94a-481b-8376-9150b2ae7b9d" />
 
        
 Enjoy them all and above all <cr>USE IT RESPONSIBLY</c>
