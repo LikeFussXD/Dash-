@@ -9,10 +9,13 @@ Have you ever thought that the "More Games" button was completely useless? WELL 
 
 This mod brings all 3 fully playable Geometry Dash spinoffs into one mod!
 
-![meltdown](frame:meltdown.png&scale:0.5)
-![world](frame:world.png&scale:0.5)
-![subzero](frame:subzero.png&scale:0.5)
-
+- Subzero:
+  <img width="348" height="348" alt="images (1)" src="https://github.com/user-attachments/assets/51337ced-632b-496d-ac73-432fca4264af" />
+- World:
+  <img width="447" height="447" alt="world" src="https://github.com/user-attachments/assets/f085cddd-c814-41b8-8713-b80e1139ceb5" />
+- Meltdown:
+  <img width="225" height="225" alt="meltdown" src="https://github.com/user-attachments/assets/3b273934-f1b1-464a-8a0c-d9f149adbe73" />
+     
 Enjoy them all and above all <cr>USE IT RESPONSIBLY</c>
 This a fork of an already existing Mod called [MoreGames](https://geode-sdk.org/mods/bitz.moregames)
 
